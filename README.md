@@ -1,1 +1,2 @@
 # Dokumentacio 
+fontos uzenet 
