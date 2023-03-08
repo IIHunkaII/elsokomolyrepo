@@ -5,3 +5,4 @@ ne feledd az account.js ben a kulcsot lol
 nice
 
 fontos uzenet 
+most tuntettem el az issuet
