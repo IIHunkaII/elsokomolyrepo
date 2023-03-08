@@ -6,3 +6,4 @@ nice
 
 fontos uzenet 
 most tuntettem el az issuet
+fontos uzenet 
